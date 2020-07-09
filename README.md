@@ -4,7 +4,6 @@ Yet another Front-End Developer based in Berlin, Germany.
 - [Twitter](https://twitter.com/lean8086)
 - [GitHub](https://github.com/lean8086)
 - [LinkedIn](https://www.linkedin.com/in/lean8086)
-- [YouTube](https://www.youtube.com/channel/UCIBDo1O4Ss4Dgu0HtBbDlrw)
 
 ## Labs
 Collection of quick experiments and forgotten projects.
@@ -21,7 +20,6 @@ Collection of quick experiments and forgotten projects.
 Objects built with everyday materials and tools.
 
 - [Arduino MIDI Controller](https://lean8086.com/articles/building-an-arduino-midi-controller/)
-- [UV Light Box](https://youtu.be/_7N8hjOa46w) (Video)
 - [Arcade Cabinet](https://lean8086.com/articles/how-i-built-an-arcade-machine-from-scratch/)
 
 [See more...](https://lean8086.com/#things)
