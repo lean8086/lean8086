@@ -1,9 +1,6 @@
-Yet another Front-End Developer based in Berlin, Germany.
+# Hey! I'm Leandro Linares
 
-- [Personal Website](https://lean8086.com)
-- [Twitter](https://twitter.com/lean8086)
-- [GitHub](https://github.com/lean8086)
-- [LinkedIn](https://www.linkedin.com/in/lean8086)
+I use code to **create usable interfaces** and my hands to **build nerdy things**. I document my coding journey in [tweets](https://twitter.com/lean8086) and [blog posts](https://lean8086.com), and my building process in aesthetic [videos](https://www.youtube.com/channel/UCIBDo1O4Ss4Dgu0HtBbDlrw).
 
 ## Labs
 Collection of quick experiments and forgotten projects.
