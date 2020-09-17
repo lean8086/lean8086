@@ -1,6 +1,6 @@
-# Hey! I'm Leandro Linares
+# Hi! I'm Leandro Linares
 
-I use code to **create usable interfaces** and my hands to **build nerdy things**. I document my coding journey in [tweets](https://twitter.com/lean8086) and [blog posts](https://lean8086.com), and my building process in aesthetic [videos](https://www.youtube.com/channel/UCIBDo1O4Ss4Dgu0HtBbDlrw).
+I use code to **create user-friendly interfaces**, and tools to **build nerdy things**. I document my coding journey in [tweets](https://twitter.com/lean8086) and [blog posts](https://lean8086.com), and my building process in cinematic [videos](https://www.youtube.com/channel/UCIBDo1O4Ss4Dgu0HtBbDlrw).
 
 ## Labs
 Collection of quick experiments and forgotten projects.
